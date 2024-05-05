@@ -1924,7 +1924,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This is instruction
+  m_text: Press and hold left mouse button to jump
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a704e734c471bd346a0817545eac8029, type: 2}
   m_sharedMaterial: {fileID: -7281624207515372469, guid: a704e734c471bd346a0817545eac8029, type: 2}
@@ -4039,7 +4039,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1879252758
 RectTransform:
   m_ObjectHideFlags: 0
